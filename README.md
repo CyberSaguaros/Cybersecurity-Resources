@@ -5,19 +5,6 @@ This repo contains curated notes, guides, and tools for **core security discipli
 
 ---
 
-## 📂 Repository Structure
-
-Cybersecurity-Resources/<br>
-│<br>
-├── Server-OS/          # Linux, Windows, and server hardening<br>
-├── Red-Team-Topics/    # Offensive TTPs, exploitation frameworks<br>
-├── Blue-Team-Topics/   # Defensive monitoring, detection, SOC workflows<br>
-├── Threat-Hunting/     # Proactive detection, adversary emulation<br>
-├── Log-Analysis/       # SIEM, Splunk, Chronicle, log parsing<br>
-└── Network-Analysis/   # PCAP analysis, IDS/IPS, Wireshark<br>
-
----
-
 ## 🎯 Usage
 
 - Use this repo to learn about **core cybersecurity concepts**.  
