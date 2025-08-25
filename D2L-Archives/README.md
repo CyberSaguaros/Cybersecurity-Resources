@@ -1,7 +1,6 @@
 # 🗄️ D2L Archives
 
-This document contains archived resources from the **Cyber Saguaro Club’s D2L platform**, organized into relevant cybersecurity categories.  
-These notes serve as a reference for study, workshops, and practice.
+This document contains archived resources from the **Cyber Saguaro Club’s D2L platform**, organized into relevant cybersecurity categories. These notes serve as a reference for study, workshops, and practice.
 
 ---
 
