@@ -31,14 +31,14 @@ Resources related to **Linux, Windows, and server administration**.
   > - [Post Compromise Enumeration.pdf](https://github.com/user-attachments/files/21963788/Post.Compromise.Enumeration.pdf)
   > - [AD Post Exploitation.pdf](https://github.com/user-attachments/files/21963821/AD.Post.Exploitation.pdf)
 
----
+  ---
 
 ## 🕵️‍♂️ Red Team Topics
 Offensive security resources focused on **exploitation and attack tactics**.  
 - Hak5 Key Croc
   > - [Key-Croc_edited_v22.03 2.pdf](https://github.com/user-attachments/files/21981533/Key-Croc_edited_v22.03.2.pdf)
 
----
+  ---
 
 ## 🛡️ Blue Team Topics
 Defensive security resources focused on **monitoring and defense**.  
@@ -55,7 +55,7 @@ Defensive security resources focused on **monitoring and defense**.
   > - [wrccdc-2020-blueteam-packet.pdf](https://github.com/user-attachments/files/21981722/wrccdc-2020-blueteam-packet.pdf)
   > - [wrccdc-2020-bt-debrief.pdf](https://github.com/user-attachments/files/21981725/wrccdc-2020-bt-debrief.pdf)
 
----
+  ---
 
 ## 🎯 Threat Hunting
 Proactive detection and analysis techniques.  
@@ -63,7 +63,7 @@ Proactive detection and analysis techniques.
   > - [Intro to Threat Hunting w/Security Onion - Youtube](https://www.youtube.com/watch?v=UFQVrYe9hyk)
   > - [Network_Threat_Hunting.pdf](https://github.com/user-attachments/files/21981763/Network_Threat_Hunting_-_20220412.pdf)
 
----
+  ---
 
 ## 📊 Log Analysis
 Guides and references for working with **logs and SIEM tools**.  
@@ -85,12 +85,65 @@ Guides and references for working with **logs and SIEM tools**.
   > - [var_log.zip](https://github.com/user-attachments/files/21981966/var_log.zip)
   > - [DOS.zip](https://github.com/user-attachments/files/21981971/DOS.zip)
 
----
+  ---
 
 ## 🌐 Network Analysis
 Resources for **network traffic analysis and investigation**.  
-- xxx 
+- General Resources
+  > - [NCL - What is Telnet - YouTube](https://www.youtube.com/watch?v=Atny5Z3vQyo&t=29s)
+  > - [Command and Control – ICMP Lab](https://pentestlab.blog/tag/icmpsh/)
+  > - [6. Network Analysis.pdf](https://github.com/user-attachments/files/21994366/6.Network.Analysis.pdf)
+  > - [Subnetting_Presentation_v5_12OCT2022.pdf](https://github.com/user-attachments/files/21994346/Subnetting_Presentation_v5_12OCT2022.pdf)
+  > - [IEEE 802.11 Pocket Reference SANS Guide](https://d2l.arizona.edu/d2l/le/content/1153732/viewContent/12449733/View)
+  > - [SANS TCP/IP and tcpdump Pocket Reference Guide](https://d2l.arizona.edu/d2l/le/content/1153732/viewContent/12449737/View)
+  > - [IPv4 Packet Decoding -- during (ISC)2 - YouTube](https://www.youtube.com/watch?v=3j6owFfRJNg&t=2013s)
+- Zero Trust
+  > - [(U)ZT_RA_v1.1(U)_Mar21.pdf](https://github.com/user-attachments/files/21994471/U.ZT_RA_v1.1.U._Mar21.pdf)
+  > - [NIST.SP.800-63b.pdf](https://github.com/user-attachments/files/21994473/NIST.SP.800-63b.pdf)
+  > - [NIST.SP.800-207.pdf](https://github.com/user-attachments/files/21994494/NIST.SP.800-207.pdf)
+- Tools
+  > - [Tool Documentation: tcpdump.pdf](https://github.com/user-attachments/files/21994642/beginners-guide-tcpdump.pdf)
+  > - [Tool Documentation: scapy.pdf](https://github.com/user-attachments/files/21994647/scapy.guide.pdf)
+  > - [Tool Documentation: How to Use Wireshark.pdf](https://github.com/user-attachments/files/21994678/How.to.Use.Wireshark.pdf)
+  > - [Tool Documentation: Wireshark Tutorial & Cheat Sheet](https://hackertarget.com/wireshark-tutorial-and-cheat-sheet/)
+  > - [Wireshark Tutorial: Exporting Objects from a Pcap](https://unit42.paloaltonetworks.com/using-wireshark-exporting-objects-from-a-pcap/)
+  > - [Wireshark_Display_Filters.pdf](https://github.com/user-attachments/files/21994713/Wireshark_Display_Filters.pdf)
+  > - [wireshark_802.11_filters_-_reference_sheet.pdf](https://github.com/user-attachments/files/21994733/wireshark_802.11_filters_-_reference_sheet.pdf)
+  > - [Ettercap Tutorial.pdf](https://github.com/user-attachments/files/21994746/Ettercap.Tutorial.pdf)
+  > - [Fun with Ettercap.pdf](https://github.com/user-attachments/files/21994838/Fun.with.Ettercap.pdf)
+  > - [How to use NMAP to scan ports](https://phoenixnap.com/kb/nmap-scan-open-ports)
+  > - [Common_ports.pdf](https://github.com/user-attachments/files/21994859/common_ports.pdf)
+  > - [IANA Protocol Numbers](https://www.iana.org/assignments/protocol-numbers/protocol-numbers.xhtml)
+  > - [Record Packet Trace on Mac](https://developer.apple.com/documentation/network/recording-a-packet-trace)
+  > - [A-Packets: Online pcap file analyzer](https://apackets.com/)
+- Dmitry
+  > - [Kali Linux-An Ethical Hackers Cookbook](https://d2l.arizona.edu/d2l/le/content/1153732/viewContent/12443264/View)
+  > - [Passive Information Gathering Tool in Kali Linux](https://www.geeksforgeeks.org/linux-unix/dmitry-passive-information-gathering-tool-in-kali-linux/)
+  > - [Introducing and Install DMitry on Kali Linux](https://blog.eldernode.com/introducing-and-install-dmitry-on-kali-linux/)
+  > - [How to Use DMitry Tool to Gather Website Information on Kali Linux](https://shouts.dev/articles/how-to-use-dmitry-tool-to-gather-website-information-on-kali-linux)
+  > - [Performing deep magic with DMitry](https://subscription.packtpub.com/book/networking-and-servers/9781787121829/2/ch02lvl1sec28/performing-deep-magic-with-dmitry)
+- Wireless Exploitation Tools
+  > - [Tool Documentation: Aircrack-ng Tutorials](https://www.aircrack-ng.org/doku.php?id=tutorial)
+- Networking Practice
+  > - [Network Logs.pdf](https://github.com/user-attachments/files/21995135/Network.Logs.pdf)
+  > - [Basics&ExfiltratePCAPs.zip](https://github.com/user-attachments/files/21995167/Basics.ExfiltratePCAPs.zip)
+  > - [Network - DNS.zip](https://github.com/user-attachments/files/21995175/Network.-.DNS.zip)
+  > - [Network - exflitrate.zip](https://github.com/user-attachments/files/21995184/Network.-.exflitrate.zip)
+  > - [Sky Format.zip](https://github.com/user-attachments/files/21995201/Sky.Format.zip)
+  > - [Ethereal_HTTP_Solution.pdf](https://github.com/user-attachments/files/21995207/Ethereal_HTTP_Solution.pdf)
+  > - [How to capture HTTP traffic using Wireshark, Fiddler, or tcpdump](https://support.atlassian.com/atlassian-knowledge-base/kb/how-to-capture-http-traffic-using-wireshark-fiddler-or-tcpdump/)
+- CCNA Class NETI 109
+  > - [NETI 109_ Networking I.docx](https://github.com/user-attachments/files/21995215/NETI.109_.Networking.I.docx)
+  > - [NETI 109 Exams.docx](https://github.com/user-attachments/files/21995217/NETI.109.Exams.docx)
+- CCNA Class NETI 119
+  > - [NETI 119 Commands, Subnet, Routes Info.docx](https://github.com/user-attachments/files/21995313/NETI.119.Commands.Subnet.Routes.Info.docx)
+  > - [NETI 119 Lab Commands.docx](https://github.com/user-attachments/files/21995315/NETI.119.Lab.Commands.docx)
+  > - [NETI 119 Check Your Understanding _ Quizzes.docx](https://github.com/user-attachments/files/21995317/NETI.119.Check.Your.Understanding._.Quizzes.docx)
+  > - [NETI 119 Notes.pdf](https://github.com/user-attachments/files/21995356/NETI.119.Notes.pdf)
+  > - [NETI 119 ITN Practice #1.docx](https://github.com/user-attachments/files/21995361/NETI.119.ITN.Practice.1.docx)
+  > - [NETI 119 Skills 1 Practice 1.docx](https://github.com/user-attachments/files/21995364/NETI.119.Skills.1.Practice.1.docx)
+  > - [NETI 119 Practice PTSA, Part 2, #1.docx](https://github.com/user-attachments/files/21995365/NETI.119.Practice.PTSA.Part.2.1.docx)
+  > - [NETI Final Practice.docx](https://github.com/user-attachments/files/21995367/NETI.Final.Practice.docx)
+  > - [NETI 119 Exam Answers.docx](https://github.com/user-attachments/files/21995382/NETI.119.Exam.Answers.docx)
+  ---
 
----
-
-✍️ *Members: add more detailed D2L exports, notes, and references under each section.*
