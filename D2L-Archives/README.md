@@ -61,13 +61,29 @@ Defensive security resources focused on **monitoring and defense**.
 Proactive detection and analysis techniques.  
 - General Resources
   > - [Intro to Threat Hunting w/Security Onion - Youtube](https://www.youtube.com/watch?v=UFQVrYe9hyk)
-  > - [Network_Threat_Hunting_-_20220412.pdf](https://github.com/user-attachments/files/21981763/Network_Threat_Hunting_-_20220412.pdf)
+  > - [Network_Threat_Hunting.pdf](https://github.com/user-attachments/files/21981763/Network_Threat_Hunting_-_20220412.pdf)
 
 ---
 
 ## 📊 Log Analysis
 Guides and references for working with **logs and SIEM tools**.  
-- xxx 
+- General Resources
+  > - [Log Analysis Tips for People Who Aren’t Ready for Command Line](https://cryptokait.com/2019/08/27/log-analysis-tips-for-people-who-arent-ready-for-command-line/)
+  > - [Leaping into Log Analysis](https://cryptokait.com/2019/08/27/leaping-into-log-analysis/)
+  > - [Log Analysis Spring 22 Individual NCL Game.pdf](https://github.com/user-attachments/files/21981824/5.Log.Analysis.pdf)
+  > - [Four Ways to Analyze Logs Like a Pro!](https://cryptokait.com/2020/09/09/four-ways-to-analyze-logs-like-a-pro/)
+  > - [An_Awk_Primer_Print_version.pdf](https://github.com/user-attachments/files/21981860/An_Awk_Primer_Print_version.pdf)
+  > - [grep_awk_sed-2.pdf](https://github.com/user-attachments/files/21981867/grep_awk_sed-2.pdf)
+- Log Analysis Tools
+  > - [Getting Started w/RITA](https://www.activecountermeasures.com/webcasts/09-09-2020-acm-webcast-getting-started-with-rita/)
+  > - [RITA-Cheat-Sheet.pdf](https://github.com/user-attachments/files/21981906/RITA-Cheat-Sheet.pdf)
+  > - [Log Parser Studio 2.2](https://techcommunity.microsoft.com/blog/exchange/introducing-log-parser-studio/601131)
+  > - [Espy - Sysmon Network Log Collector and Adapter](https://github.com/activecm/Espy)
+- Log Analysis Practice
+  > - [Log Analysis.pdf](https://github.com/user-attachments/files/21981947/Log.Analysis.pdf)
+  > - [History.zip](https://github.com/user-attachments/files/21981958/History.zip)
+  > - [var_log.zip](https://github.com/user-attachments/files/21981966/var_log.zip)
+  > - [DOS.zip](https://github.com/user-attachments/files/21981971/DOS.zip)
 
 ---
 
