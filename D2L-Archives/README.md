@@ -35,19 +35,33 @@ Resources related to **Linux, Windows, and server administration**.
 
 ## 🕵️‍♂️ Red Team Topics
 Offensive security resources focused on **exploitation and attack tactics**.  
-- xxx 
+- Hak5 Key Croc
+  > - [Key-Croc_edited_v22.03 2.pdf](https://github.com/user-attachments/files/21981533/Key-Croc_edited_v22.03.2.pdf)
 
 ---
 
 ## 🛡️ Blue Team Topics
 Defensive security resources focused on **monitoring and defense**.  
-- xxx  
+- General Resources
+  > - [Blue Team Overview.pdf](https://github.com/user-attachments/files/21981580/Blue.Team.Overview.pdf)
+  > - [Scheduled Tasks Introduction.pdf](https://github.com/user-attachments/files/21981585/Scheduled.Tasks.Introduction.pdf)
+  > - [Windows - NTLM.pdf](https://github.com/user-attachments/files/21981602/Windows.-.NTLM.pdf)
+  > - [SANS Creating Your Own SIEM and Incident Response Toolkit Using Open Source Tools](https://github.com/user-attachments/files/21981605/33689.pdf)
+- Mitre Att&ck
+  > - [Mitre Att&ck 1 - Overview.pdf](https://github.com/user-attachments/files/21981632/Mitre.Att.ck.1.-.Overview.pdf)
+  > - [Mitre Att&ck 2 - Execution.pdf](https://github.com/user-attachments/files/21981634/Mitre.Att.ck.2.-.Execution.pdf)
+  > - [Mitre Att&ck - Execution - WMI Intro.pdf](https://github.com/user-attachments/files/21981650/Mitre.Att.ck.-.Execution.-.WMI.Intro.pdf)
+- Past WRCCDC Documents
+  > - [wrccdc-2020-blueteam-packet.pdf](https://github.com/user-attachments/files/21981722/wrccdc-2020-blueteam-packet.pdf)
+  > - [wrccdc-2020-bt-debrief.pdf](https://github.com/user-attachments/files/21981725/wrccdc-2020-bt-debrief.pdf)
 
 ---
 
 ## 🎯 Threat Hunting
 Proactive detection and analysis techniques.  
-- xxx 
+- General Resources
+  > - [Intro to Threat Hunting w/Security Onion - Youtube](https://www.youtube.com/watch?v=UFQVrYe9hyk)
+  > - [Network_Threat_Hunting_-_20220412.pdf](https://github.com/user-attachments/files/21981763/Network_Threat_Hunting_-_20220412.pdf)
 
 ---
 
